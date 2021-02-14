@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Yaru Dark",
+    "telemetry.enableTelemetry": false,
+    "enable-crash-reporter": false,
+    "editor.minimap.enabled": false,
+    "explorer.openEditors.visible": 0,
+    "editor.rulers": [120]
+}
